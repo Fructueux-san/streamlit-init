@@ -1,3 +1,5 @@
 seaborn
 pandas 
 plotly
+scikit-learn
+numpy
